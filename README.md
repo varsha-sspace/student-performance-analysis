@@ -32,10 +32,10 @@ This is my first Data Science project. I analysed the academic performance of fi
 - ## Project Visualizations
 
 ### Subject-wise Performance
-![Subject Performance](subject-performance.png)
+![Subject Performance](performance.png)
 
 ### Student Pass/Fail Distribution
-![Pass Fail Chart](pass-fail.png)
+![Pass Fail Chart](subjectperformance.png)
 
 ## Project Limitations
 
