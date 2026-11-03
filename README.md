@@ -29,6 +29,20 @@ This is my first Data Science project. I analysed the academic performance of fi
 - Performing data analysis.
 - Creating bar charts and pie charts.
 
+- ## Project Visualizations
+
+### Subject-wise Performance
+![Subject Performance](subject-performance.png)
+
+### Student Pass/Fail Distribution
+![Pass Fail Chart](pass-fail.png)
+
+## Project Limitations
+
+- The dataset contains only five sample students.
+- The results are for learning and demonstration purposes.
+- A larger real-world dataset would be needed for more reliable conclusions.
+
 ## Author
 Varsha Agrawal
 
